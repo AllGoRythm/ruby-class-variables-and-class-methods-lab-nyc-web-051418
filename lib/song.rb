@@ -56,6 +56,4 @@ class Song
     all_artists
   end
 
-
-
 end
